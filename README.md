@@ -4,9 +4,6 @@
 
 This Tableau dashboard delivers a comprehensive analysis of household income and expenditure data across various geographic regions, family structures, and income brackets. It is designed to provide stakeholders—including policymakers, analysts, and researchers—with powerful tools to uncover economic trends, evaluate financial behavior, and support data-driven decisions.
 
-### 🚀 Dashboard
-#### ![Image](https://github.com/user-attachments/assets/b5dbc497-17cb-47c5-bad5-e0bcfdde56b4)
-
 
 ## 📊 Problem Statement
 
@@ -33,8 +30,7 @@ This Tableau solution addresses these challenges by centralizing diverse dataset
 - Excel/CSV – data extraction and transformation.
 
 
-## 🔗 Result
+## 🔗 Result And Dashboard Preview
 
 https://github.com/Kvivekkumar98/Financial_DataAnalysis_Dashboard_HouseholdIncome-Expenditures_insights_using_Tableau/blob/main/Financial%20Data%20Analysis%20Dashboard%20%E2%80%93%20Household%20Income%20%26%20Expenditure%20Insights.pdf
-
 
